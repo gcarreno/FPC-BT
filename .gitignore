@@ -10,6 +10,7 @@
 
 # Lazarus backup and temp files/folders
 backup
+*.bak
 
 # Local development
 bin/*.res
