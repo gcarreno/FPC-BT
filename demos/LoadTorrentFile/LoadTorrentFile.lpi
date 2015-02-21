@@ -55,7 +55,7 @@
   <CompilerOptions>
     <Version Value="11"/>
     <Target>
-      <Filename Value="../../bin/LoadTorrentFile$(TargetCPU)-$(TargetOS)"/>
+      <Filename Value="../../bin/LoadTorrentFile-$(TargetCPU)-$(TargetOS)"/>
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>

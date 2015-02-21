@@ -15,4 +15,4 @@ backup
 # Local development
 bin/*.res
 bin/lib
-
+bin/LoadTorrentFile*
