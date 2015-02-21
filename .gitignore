@@ -1,0 +1,17 @@
+# Temp text files
+*.*~
+
+# Lazarus and FPC compiled files
+*.compiled
+*.obj
+*.o
+*.or
+*.ppu
+
+# Lazarus backup and temp files/folders
+backup
+
+# Local development
+bin/*.res
+bin/lib
+
